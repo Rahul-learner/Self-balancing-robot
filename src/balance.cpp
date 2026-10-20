@@ -27,6 +27,12 @@
 #define BIN2 23
 #define STBY 4
 
+// Encoders: left on G34/G35, right on G5/G15
+#define ENC_L_A 34
+#define ENC_L_B 35
+#define ENC_R_A 5
+#define ENC_R_B 15
+
 // ======================= WiFi =======================
 // 0 = robot creates its own WiFi network (no router needed), page at 192.168.4.1
 // 1 = robot joins your router (the IP is printed on the serial monitor)
