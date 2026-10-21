@@ -1,0 +1,7 @@
+{
+    "clangd.path": "/home/rahul/.platformio/packages/tool-clangd-esp/bin/clangd",
+    "clangd.arguments": [
+        "--query-driver=/home/rahul/.platformio/packages/toolchain-*/bin/*,/home/rahul/.platformio/packages/tool-*/bin/*",
+        "--compile-commands-dir=/mnt/Vol_B/HobbyProject/2-wheeled-self-balancing-robot/Self balancing robot/.cache/clangd"
+    ]
+}

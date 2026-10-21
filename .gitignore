@@ -6,3 +6,10 @@
 .vscode/launch.json
 .vscode/ipch
 compile_commands.json
+/simulation
+/conda_env
+/.conda_env
+/scratch
+/micromamba_root
+/.micromamba_root
+/bin
